@@ -1,0 +1,21 @@
+.container {
+	margin-top: 140px;
+}
+h1 {
+	text-transform: uppercase;
+	font: normal 36px arial;
+	text-align: center;
+}
+.row {
+	margin-top: 120px;
+}
+p {
+	padding-top: 25px;
+	font: 18px arial;
+}
+img {
+	height: 135px;
+}
+.features {
+	height: 200px;
+}
