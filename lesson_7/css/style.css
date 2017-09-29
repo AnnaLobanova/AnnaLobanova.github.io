@@ -1,0 +1,80 @@
+* {
+	box-sizing: border-box;
+}
+ h1 {
+ 	text-align: center;
+ 	font: 24px tahoma;
+ }
+ h1 span {
+	display: block;
+	margin-top: 25px;
+	text-transform: uppercase;
+	font-weight: bold;
+
+ }
+.header {
+	margin-top: 125px;
+}
+.main {
+	text-align: center;
+	margin-top: 85px;
+}
+.video, .form {
+	display: inline-block;
+	vertical-align: top;
+}
+.form {
+	margin-left: 30px;
+	border: 5px solid #2727d9;
+	width: 345px;
+}
+.form p {
+	padding: 40px 0;
+	font: bold 20px tahoma;
+}
+.form input {
+	width: 295px;
+	padding: 18px;
+	margin-bottom: 10px;
+	font: 18px tahoma;	
+	border: 1px solid #333;
+}
+.button {
+	width: 295px;
+	color: #fff;
+	background-color: #2727d9;
+	border: none;
+	font: 18px tahoma;
+	padding: 26px 0;
+	margin-bottom: 25px;
+}
+.features {
+	margin: 125px 0 80px 0; 	
+	text-align: center;
+}
+h2 {
+	font: bold 24px tahoma;
+	text-transform: uppercase;
+}
+.interest {
+	text-align: center;	
+	margin: 85px 0 85px 0;
+}
+.block p {
+	padding-top: 20px;
+	font: bold 16px tahoma;
+}
+.block {
+	display: inline-block;
+	margin: 0 55px;
+}
+.customers {
+	text-align: center; 	
+}
+.people {
+	margin: 54px 0;
+}
+.people img {
+	padding: 16px 10px;
+
+}
