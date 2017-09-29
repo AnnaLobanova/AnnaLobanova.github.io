@@ -1,0 +1,48 @@
+.section {
+	margin-bottom: 100px;
+}
+.header {
+	font: 24px tahoma;
+	line-height: 1.6;
+	margin: 50px auto;
+}
+.header span {
+	display: block;
+	font-weight: bold;
+}
+.video {
+	margin-bottom: 20px;
+}
+.form {
+	padding: 30px 15px;
+	border: 5px solid #593ec7;
+}
+.form p {
+	margin-bottom: 30px;
+	font: bold 20px tahoma;
+}
+.form input {
+	margin-bottom: 12px;
+	font: 18px tahoma;
+}
+.button {
+	background-color: #593ec7;
+}
+h2 {
+	font: bold 24px tahoma;
+	text-transform: uppercase;
+}
+.block {
+	height: 145px;
+	margin: 70px auto;
+}
+.block p {
+	font: bold 16px tahoma;
+	margin-top: 20px;
+}
+.clients {
+	margin-bottom: 80px;
+}
+.people {
+	margin-bottom: 30px;
+}
