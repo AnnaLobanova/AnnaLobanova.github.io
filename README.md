@@ -13,6 +13,6 @@
 
 [Урок 7](https://annalobanova.github.io/lesson_7/ "Первый макет") Верстка первого макета
 
-[Урок 8](https://annalobanova.github.io/lesson_8/ "Блок с преимуществами") Верстка с помощью Bootstrap_1
+[Урок 8](https://annalobanova.github.io/lesson_8/ "Блок с преимуществами") Верстка с помощью Bootstrap_1 (блок с преимуществами)
 
-[Урок 9](https://annalobanova.github.io/lesson_9/ "Верстка макета с Bootstrap") Верстка с помощью Bootstrap_2
+[Урок 9](https://annalobanova.github.io/lesson_9/ "Верстка макета с Bootstrap") Верстка с помощью Bootstrap_2 (макет)
