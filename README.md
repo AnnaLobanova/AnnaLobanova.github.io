@@ -24,3 +24,5 @@
 [Урок 14](https://annalobanova.github.io/lesson_14/ "Подключение шрифтов") Подключение шрифтов
 
 [Модуль 5 Практика Часть2](https://annalobanova.github.io/Modul_5_Practice2/ "Верстка главного экрана") Верстка главного экрана
+
+[Урок 15](https://annalobanova.github.io/lesson_15/ "Псевдоклассы и псевдоэлементы") Псевдоклассы и псевдоэлементы
