@@ -19,6 +19,8 @@
 
 [Урок 13](https://annalobanova.github.io/lesson_13/ "Адаптивная верстка") Верстка Pixel Perfect (форма)
 
-[Модуль 5 Практика](https://annalobanova.github.io/Modul_5_Practice/ "Шапка сайта") Верстка макета
+[Модуль 5 Практика](https://annalobanova.github.io/Modul_5_Practice/ "Шапка сайта") Верстка шапки сайта
 
 [Урок 14](https://annalobanova.github.io/lesson_14/ "Подключение шрифтов") Подключение шрифтов
+
+[Модуль 5 Практика Часть2](https://annalobanova.github.io/Modul_5_Practice2/ "Верстка главного экрана") Верстка главного экрана
