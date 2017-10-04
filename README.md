@@ -30,3 +30,5 @@
 [Модуль 5 Практика Часть3](https://annalobanova.github.io/Modul_5_Practice3/ "Адаптивный главный экран") Адаптивный главный экран
 
 [Урок 16](https://annalobanova.github.io/lesson_16/ "Слайдер на сайте") Слайдер на сайте
+
+[Модуль 5 Практика Часть4](https://annalobanova.github.io/Modul_5_Practice4/ "Верстка блока с преимуществами") Верстка блока с преимуществами
