@@ -28,3 +28,5 @@
 [Урок 15](https://annalobanova.github.io/lesson_15/ "Псевдоклассы и псевдоэлементы") Псевдоклассы и псевдоэлементы
 
 [Модуль 5 Практика Часть3](https://annalobanova.github.io/Modul_5_Practice3/ "Адаптивный главный экран") Адаптивный главный экран
+
+[Урок 16](https://annalobanova.github.io/lesson_16/ "Слайдер на сайте") Слайдер на сайте
