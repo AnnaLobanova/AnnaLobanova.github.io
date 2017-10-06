@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Всплывающее окно</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="text-center">
+		<button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#modal_delete">Удалить файл</button>
+	</div>
+	<div class="modal fade" id="modal_delete" tabindex="-1" role="dialog">
+	  <div class="modal-dialog" role="document">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+	        <h4 class="modal-title">Подтвердите удаление</h4>
+	      </div>
+	      <div class="modal-body">
+	        <p>Вы действительно  хотите удалить файл?</p>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-default btn-success">Да</button>
+	        <button type="button" class="btn btn-default btn-danger" data-dismiss="modal">Нет</button>     
+	      </div>
+	    </div><!-- /.modal-content -->
+	  </div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</body>
+</html>

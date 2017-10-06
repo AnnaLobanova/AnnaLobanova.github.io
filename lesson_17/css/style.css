@@ -1,0 +1,15 @@
+body {
+	margin-top: 5rem;
+}
+.modal-header {
+	background-color: #392c38;
+}
+.modal-header, span{
+	color: #fff;
+}
+.btn {
+	border: none;
+}
+.btn-default {
+	width: 6rem;
+}
