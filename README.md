@@ -34,3 +34,5 @@
 [Модуль 5 Практика Часть4](https://annalobanova.github.io/Modul_5_Practice4/ "Верстка блока с преимуществами") Верстка блока с преимуществами
 
 [Урок 17](https://annalobanova.github.io/lesson_17/ "Всплывающее окно") Всплывающее окно
+
+[Модуль 5 Практика Часть5](https://annalobanova.github.io/Modul_5_Practice5/ "Верстка всплывающего окна") Верстка всплывающего окна
