@@ -1,0 +1,122 @@
+@font-face {
+			font-family: "MyriadProRegular";
+			src: url("../fonts/MyriadProRegular/MyriadProRegular.eot");
+			src: url("../fonts/MyriadProRegular/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/MyriadProRegular/MyriadProRegular.woff") format("woff"),
+			url("../fonts/MyriadProRegular/MyriadProRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
+
+body {
+	font-family: "MyriadProRegular";
+}
+.container {
+	padding: 50px 0;
+	background-image: url(../img/bg.png);
+}
+
+.nav {
+	border: none;
+	height: 35px;
+}
+.form {
+	position: relative;
+	padding: 41px 50px 25px 50px;
+	background-color: #000;
+}
+ul {
+	overflow: hidden;
+}
+
+li {
+	margin-left: 30px;
+	color:  #fff;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 22px;
+}
+li a {	
+	color:  #080707;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 22px;
+	background-color: #fff;
+}
+.active {
+	border: 10px solid #03a4d9;
+	border-radius: 5px;	
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus {
+  background-color: #03a4d9;
+  margin-top: -10px;
+  color:  #fff;
+}
+.nav-pills > li > a { 
+  border-radius: 5px;
+}
+.nav-pills > li + li {
+  margin-left: 10px;
+}
+input[type="text"] {
+	margin-top: 29px;
+	padding-left: 24px;
+	height: 61px;
+	font-size: 24px;
+	line-height: 22px;
+	background-color: #1b1a1a;
+	color: #fff;
+	border: none;
+}
+ input[type="checkbox"] {
+	display: none;
+}
+.checkbox-custom {
+	display: inline-block;
+	vertical-align: baseline;
+    position: relative;
+    margin-left: 24px;      
+    width: 12px;             
+    height: 12px;            
+    border: 2px solid #fff;
+    border-radius: 1px;   
+}
+.label {
+	display: inline-block;
+	vertical-align: baseline;
+	color:  #6f6d6d;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 22px;	
+}
+button {
+	position: absolute;
+	top: 311px;
+	left: 458px;
+	width: 128px;
+	height: 41px;
+	padding-right: 20px;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 22px;
+	color: #fff;
+	background: -webkit-radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+	background: -moz-radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+	background: -o-radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+	background: -ms-radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+	background: radial-gradient(circle farthest-side at 50%, #cf2303 0%, #7f0501 100%);
+	border: none;
+}
+.form a {
+	display: block;
+	margin-top: 22px;
+	margin-bottom: 40px;
+	padding-left: 24px;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 22px;
+	color:  #c51f03;
+}
+
