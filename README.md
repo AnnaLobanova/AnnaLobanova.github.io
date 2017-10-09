@@ -37,6 +37,6 @@
 
 [Модуль 5 Практика Часть5](https://annalobanova.github.io/Modul_5_Practice5/ "Верстка всплывающего окна") Верстка всплывающего окна
 
-[Урок 18](https://annalobanova.github.io/lesson_18_tab/ "Табы") Табы
+[Урок 18](https://annalobanova.github.io/lesson_18_tab/ "Форма регистрации (используем табы)") Форма регистрации (используем табы)
 
 [Урок 18](https://annalobanova.github.io/lesson_18_collapse/ "Аккордеон") Аккордеон
