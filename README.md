@@ -42,3 +42,7 @@
 [Урок 18](https://annalobanova.github.io/lesson_18_collapse/ "Аккордеон") Аккордеон
 
 [Модуль 5 Практика Часть6](https://annalobanova.github.io/Modul_5_Practice6/ "Верстка блока с ценами") Верстка блока с ценами
+
+[Урок 19](https://annalobanova.github.io/lesson_19_tab/ "Форма регистрации (табы с анимацией)") Форма регистрации (табы с анимацией)
+
+[Урок 19](https://annalobanova.github.io/lesson_19_collapse/ "Аккордеон с анимацией") Аккордеон с анимацией
