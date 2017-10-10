@@ -40,3 +40,5 @@
 [Урок 18](https://annalobanova.github.io/lesson_18_tab/ "Форма регистрации (используем табы)") Форма регистрации (используем табы)
 
 [Урок 18](https://annalobanova.github.io/lesson_18_collapse/ "Аккордеон") Аккордеон
+
+[Модуль 5 Практика Часть6](https://annalobanova.github.io/Modul_5_Practice6/ "Верстка блока с ценами") Верстка блока с ценами
