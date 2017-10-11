@@ -46,3 +46,5 @@
 [Урок 19](https://annalobanova.github.io/lesson_19_tab/ "Форма регистрации (табы с анимацией)") Форма регистрации (табы с анимацией)
 
 [Урок 19](https://annalobanova.github.io/lesson_19_collapse/ "Аккордеон с анимацией") Аккордеон с анимацией
+
+[Модуль 6 Практика Часть7](https://annalobanova.github.io/Modul_6_Practice/ "Верстка блока с отзывами") Верстка блока с отзывами
