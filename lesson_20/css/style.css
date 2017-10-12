@@ -1,0 +1,17 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	margin: 0;
+}
+.box {
+	width: 100%;
+	display: table;
+	min-height: 100vh;
+	text-align: center;
+}
+.wrap {
+	display: table-cell;
+	vertical-align: middle;
+	color: #fff;
+}
