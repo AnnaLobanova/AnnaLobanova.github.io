@@ -52,3 +52,5 @@
 [Урок 20](https://annalobanova.github.io/lesson_20/ "Видеофон на сайте") Видеофон на сайте
 
 [Модуль 6 Практика Часть8](https://annalobanova.github.io/Modul_6_Practice8/ "Верстка блока с отзывами (2часть)") Верстка блока с отзывами (2часть)
+
+[Урок 21](https://annalobanova.github.io/lesson_21/ "Parallax эффект для сайта") Parallax эффект для сайта
