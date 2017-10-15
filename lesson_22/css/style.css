@@ -1,0 +1,51 @@
+body {
+	font-family: 'Open Sans', arial;
+}
+.header {
+	height: 40rem;
+	padding: 4rem 5rem;
+	position: absolute;
+	top: 0;
+	background-color: #c60b0b;
+	text-align: center;
+}
+.header h3 {
+	margin-bottom: 3rem;
+	color:  #fff;
+	font-size: 2.5rem;
+	text-transform: uppercase;
+}
+.header p {
+	margin-bottom: 3rem;
+	color:  #fff;
+	font-size: 1.8rem;
+	line-height: 1.133;
+}
+.header a {
+	display: block;
+	color:  #fff;
+	font-size: 1.8rem;
+	text-decoration: underline; 
+	/*border: 2px solid blue;*/
+}
+.contacts_footer {
+	margin-top: 2rem;
+}
+.media p {
+	font-size: 1.6rem;
+	color: #000;
+}
+.certificate p {
+	margin-top: 1.5rem;
+	font-size: 1.4rem;
+	color: #666;
+}
+.footer_contacts p {
+	font-size: 1.4rem;
+	color: #000;
+}
+.footer_contacts span {
+	font-size: 2.2rem;
+	font-weight: 600;
+	color: #000;
+}
