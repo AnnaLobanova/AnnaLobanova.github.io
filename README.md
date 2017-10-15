@@ -58,3 +58,5 @@
 [Модуль 6 Практика Часть9](https://annalobanova.github.io/Modul_6_Practice9/ "Схема работы и Все включено") Схема работы и "Все включено"
 
 [Урок 22](https://annalobanova.github.io/lesson_22/ "Гео-карта на сайте") Гео-карта на сайте
+
+[Модуль 6 Практика Часть10](https://annalobanova.github.io/Modul_6_Practice10/ "Блок с сомнениями и решением") Блок с сомнениями и решением
