@@ -60,3 +60,5 @@
 [Урок 22](https://annalobanova.github.io/lesson_22/ "Гео-карта на сайте") Гео-карта на сайте
 
 [Модуль 6 Практика Часть10](https://annalobanova.github.io/Modul_6_Practice10/ "Блок с сомнениями и решением") Блок с сомнениями и решением
+
+[Модуль 6 Практика Часть11](https://annalobanova.github.io/Modul_6_Practice11/ "Верстка блока с материалами") Верстка блока с материалами
